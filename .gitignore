@@ -1,0 +1,9 @@
+/.wp
+/node_modules
+/yarn.lock
+/vendor
+
+# OS X metadata
+.DS_Store
+.vscode/settings.json
+.idea/
